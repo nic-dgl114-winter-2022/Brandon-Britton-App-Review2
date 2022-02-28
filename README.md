@@ -2,8 +2,10 @@
 
 ## Intro
 
-  The two apps that I will be reviewing are two gaming apps: **Dragalia Lost** and **Sdorica**. In this review, I will cover both game's uses of the following elements and compare them in how they are used. UI elements will be lightly covered first, I will more broadly cover the use of RecyclerView and Activities in both apps, the Activity lifecycle of these apps, and then I will answer what changes I would make to the app if were to be a developer on it.
+  The two apps that I will be reviewing are two gaming apps: **Dragalia Lost** and **Sdorica**. In this review, I will cover both game's uses of the following elements and compare them in how they are used. UI elements and Activities will be covered first, the use of RecyclerView and Activities in both apps, the Activity lifecycle of these apps, and then I will answer what changes I would make to the app if were to be a developer on it.
 
-## UI Elements
+## UI Elements and Activities
 
-![alt text](http://url/to/img.png)
+**Dragalia Lost**
+
+![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif)
