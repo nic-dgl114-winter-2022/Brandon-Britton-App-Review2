@@ -41,9 +41,11 @@
   
    **Dragalia Lost**
    
-   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947931612832759868/Screen_Recording_20220228-094410_Dragalia_1.gif" width="500" /></p>
+   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947931612832759868/Screen_Recording_20220228-094410_Dragalia_1.gif" width="400" /></p>
 
+  Dragalia's app lifecycle I believe is rather typical from what you'd expect from an android game. Although still too long to make a .gif out of, starting the app usually begins with a black screen with a white pixel in the middle, and later presents a title screen with splash art and theme music. A typical "Tap to Play" prompt is shown before loading the main UI menu.
   
+  When stopping the app,
   
   
 
