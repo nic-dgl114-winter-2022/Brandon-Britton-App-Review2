@@ -9,7 +9,11 @@
 ## UI Elements and Activities
 
 **Dragalia Lost**
-
+<p float="left">
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif" width="100" />
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 ![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif) ![Marked UI](https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg)
 
 **Activity Navigation within a Constraint**
