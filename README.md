@@ -28,7 +28,7 @@
 **Sdorica**
 <p float="left">
   <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867409707040778/Screen_Recording_20220227-204924_Sdorica_1.gif" width="400" />
-  <img src="" width="400" /> 
+  <img src="" width="800" /> 
 </p>
 
   I found this utilization of activities quite interesting, and it's more widespread that I originally imagined in use of games. Normally, I might have imagined that a change to an activity would have had a transistion where it appears the new activity "pops up", or has a transistion from the side of the screen 
