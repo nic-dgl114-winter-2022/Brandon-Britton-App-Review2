@@ -27,7 +27,7 @@
 
 **Sdorica**
 <p float="left">
-  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867409707040778/Screen_Recording_20220227-204924_Sdorica_1.gif" width="400" />
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867409707040778/Screen_Recording_20220227-204924_Sdorica_1.gif" width="800" />
   <img src="" width="800" /> 
 </p>
 
