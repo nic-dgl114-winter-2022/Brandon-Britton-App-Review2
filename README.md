@@ -10,10 +10,11 @@
 
 **Dragalia Lost**
 
-![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif) ![Activities and RecyclerView](https://cdn.discordapp.com/attachments/910117718924099594/947936372285653073/20220228_112007.gif)
-**Activity Navigation within a View**
+![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif) ![Marked UI](https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg)
 
+**Activity Navigation within a Constraint**
 
+In Dragalia Lost, there are many different UI layouts depending where you navigate within the game, but I will divide them broadly into two seperate categories: the UI within gameplay, and the UI within menus. Above, we can see that 
 
 REQUIREMENTS
 For the purposes of this assignment you will choose two apps to analyze that fall under the same broad category of use (for example, apps in the categories of health, fitness, financial, weather, gaming, communication or any other are acceptable). Your analysis should compare and contrast your chosen apps in terms of their user interface (UI), especially relating to specific "views" (or what I've referred to as Activities in class), and to navigation, as well as the app lifecycle and especially the experience of starting, stopping and resuming use of the app. Your analysis should also continue to consider the same, or similar questions asked in the last app review assignment.
