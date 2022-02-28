@@ -14,4 +14,4 @@
 
 Test
 
-![test](https://cdn.discordapp.com/attachments/910117718924099594/947867435766251540/Screen_Recording_20220227-203246_Dragalia_1.gif)
+![test](https://cdn.discordapp.com/attachments/910117718924099594/947936372285653073/20220228_112007.gif)
