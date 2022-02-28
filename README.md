@@ -10,4 +10,5 @@
 
 **Dragalia Lost**
 
-![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif) ![Activity and RecyclerView](https://cdn.discordapp.com/attachments/910117718924099594/947867435766251540/Screen_Recording_20220227-203246_Dragalia_1.gif)
+![Cycling through Activities](https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif)
+![Activity and RecyclerView](https://cdn.discordapp.com/attachments/910117718924099594/947867435766251540/Screen_Recording_20220227-203246_Dragalia_1.gif)
