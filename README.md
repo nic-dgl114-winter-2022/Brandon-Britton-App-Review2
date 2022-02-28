@@ -13,8 +13,7 @@
 **Dragalia Lost**
 <p float="left">
   <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867457148817418/Screen_Recording_20220227-202727_Dragalia_1.gif" width="400" />
-  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg" width="400" /> 
-</p>
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg" width="400" /></p>
 
   In Dragalia Lost, there are many different UI layouts depending where you navigate within the game, but I will divide them broadly into two seperate categories: the UI within gameplay, and the UI within menus. In the two pictures above, we see that by tapping on the buttons marked (2), the center-constrained activity changes to the appropriate menu while retaining the upper (1) and lower (2) navigation bars. The second image depictes what the "Home" activity appears as, while the .gif image can be seen rotating through three different activities by tapping the corrosponding buttons on the bottom of the UI: Quests, Upgrade, and Teams.
   
@@ -26,13 +25,11 @@
 
 
 **Sdorica**
-<p float="left">
-  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867409707040778/Screen_Recording_20220227-204924_Sdorica_1.gif" width="500" />
-</p>
+<p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867409707040778/Screen_Recording_20220227-204924_Sdorica_1.gif" width="500" /></p>
 
-  In Sdorica, there are also a variety of UIs you may come across depending where you navigate throughout the game. Again, my primary focus will be where an Activity is present rather than where they are not. In Sdorica's horizontal layout, the primary UI can be seen by a header of information at the top, and on the right-hand side, five buttons that change an activity within a constraint on the screen. Note how when a button is pressed, the UI persists, but the activity within the constrait changes through a transistion. 
+  In Sdorica, there are also a variety of UIs you may come across depending where you navigate throughout the game. Again, my primary focus will be where an Activity is present rather than where they are not. In Sdorica's horizontal layout, the primary UI can be seen by a header of information at the top, and on the right-hand side, five buttons that change an activity within a constraint on the screen. I believe this is where an Activity is present, as new information is loaded for each transistion to a different menu. Note how when a button is pressed, the UI persists, but the activity within the constrait changes through a transistion. Although I can't be sure, I will note that clicking on the "Journey" or "Roster" buttons leads to pages that require significant amounts of loading time compared to the others-- this is no doubt a result of the amount of information that they need to dipslay as a result, but it tells me that when navigating through these menus, the information for each of them is discarded each time they are navigated away from, which would suggest to me these are activities rather than a change in display. 
   
-  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947950149282439188/20220228_121507.gif" width="500" /> 
+<p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947950149282439188/20220228_121507.gif" width="500" /></p>
 
 
   I found this utilization of activities quite interesting, and it's more widespread that I originally imagined in use of games. Normally, I might have imagined that a change to an activity would have had a transistion where it appears the new activity "pops up", or has a transistion from the side of the screen 
