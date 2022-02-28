@@ -6,7 +6,7 @@
   
   _Please note, and I apologize in advance, that all my .gifs were limited to 5MB in size. As a result, quality between them may differ_
 
-## UI Elements and Activities
+## UI Elements, Activities and Navigation
 
 **Dragalia Lost**
 <p float="left">
@@ -14,13 +14,22 @@
   <img src="https://cdn.discordapp.com/attachments/910117718924099594/947939609915056188/Screenshot_20220228-110427_Dragalia.jpg" width="400" /> 
 </p>
 
+### Activity Navigation within a Constraint
 
-**Activity Navigation within a Constraint**
+**Dragalia Lost**
 
-In Dragalia Lost, there are many different UI layouts depending where you navigate within the game, but I will divide them broadly into two seperate categories: the UI within gameplay, and the UI within menus. Above, we can see that 
+  In Dragalia Lost, there are many different UI layouts depending where you navigate within the game, but I will divide them broadly into two seperate categories: the UI within gameplay, and the UI within menus. In the two pictures above, we see that by tapping on the buttons marked (2), the center-constrained activity changes to the appropriate menu while retaining the upper (1) and lower (2) navigation bars. The second image depictes what the "Home" activity appears as, while the .gif image can be seen rotating through three different activities by tapping the corrosponding buttons on the bottom of the UI: Quests, Upgrade, and Teams.
+  <p float="left">
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947944351496036362/Screenshot_20220228-115215_Dragalia.jpg" width="400" />
+
+</p>
+
+  
+
+  I found this utilization of activities quite interesting, and it's more widespread that I originally imagined in use of games. Normally, I might have imagined that a change to an activity would have had a transistion where it appears the new activity "pops up", or has a transistion from the side of the screen 
 
 REQUIREMENTS
-For the purposes of this assignment you will choose two apps to analyze that fall under the same broad category of use (for example, apps in the categories of health, fitness, financial, weather, gaming, communication or any other are acceptable). Your analysis should compare and contrast your chosen apps in terms of their user interface (UI), especially relating to specific "views" (or what I've referred to as Activities in class), and to navigation, as well as the app lifecycle and especially the experience of starting, stopping and resuming use of the app. Your analysis should also continue to consider the same, or similar questions asked in the last app review assignment.
+Your analysis should compare and contrast your chosen apps in terms of their user interface (UI), especially relating to specific "views" (or what I've referred to as Activities in class), and to navigation, as well as the app lifecycle and especially the experience of starting, stopping and resuming use of the app. Your analysis should also continue to consider the same, or similar questions asked in the last app review assignment.
  
 The following questions are prompts that are intended to get you thinking about the points above. You need not answer all of them (or even any of them, if you have other equivalent ideas). Think of them as starting points to help you develop your own questions as part of your analysis:
 Consider specific and related UI elements in each of your chosen apps (e.g. menus in each of your apps, or data entry views, etc.): Does one app have a "better" interface than the other? Which do you think might be easier, or more challenging to implement?
