@@ -39,7 +39,10 @@
   
   ## App Lifecycle
   
+   **Dragalia Lost**
    
+   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947931612832759868/Screen_Recording_20220228-094410_Dragalia_1.gif" width="500" /></p>
+
   
   
   
