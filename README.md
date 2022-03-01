@@ -45,7 +45,7 @@
   
   **Sdorica**
   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867402018914334/Screen_Recording_20220227-205153_Sdorica_1.gif" width="400" />
-  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867418552840212/Screen_Recording_20220227-204248_Sdorica_1.gif" width="400" /></p>
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/948081265695924244/20220228_205607.gif" width="400" /></p>
   
   ## App Lifecycle
   
