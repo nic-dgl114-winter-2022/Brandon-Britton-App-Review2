@@ -45,7 +45,11 @@
 
   Dragalia's app lifecycle I believe is rather typical from what you'd expect from an android game. Although still too long to make a .gif out of, starting the app usually begins with a black screen with a white pixel in the middle, and later presents a title screen with splash art and theme music. A typical "Tap to Play" prompt is shown before loading the main UI menu.
   
-  When stopping the app,
+  When stopping the app, Dragalia aims to do primarily one of two things, depending on whether or not you're in a battle or within menus. If you are within a menu, the game will preserve your location in the menu and any changes that may have been made or are currently in progress, such as team orginization. The other, more notable thing that Dragalia does is if you stop the app while currently in a stage or battle-- upon resuming the app, you will see that the game has automatically paused the game for you, and you will see the pause menu upon resuming the app, with all battle information paused at that current point in time.
+  
+  One other important detail to mention while stopping the app in co-operative play, is that while the pause menu is brought up, it neither pauses the battle gameplay for the player who has stopped the app, and additionally, it results in the immedieate disconnection of that player in co-operative play.
+  
+  
   
   
 
