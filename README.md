@@ -45,10 +45,15 @@
 <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867445727748156/Screen_Recording_20220227-202954_Dragalia_1.gif" width="250" />
 <img src="https://cdn.discordapp.com/attachments/910117718924099594/947936372285653073/20220228_112007.gif" width="250" /></p>
   
+  Dragalia Lost actually has significant use of RecyclerView throughout its app. After having been introduced to the RecyclerView concept, I was surprised to discover it being used so frequently among the app. In all three of the above images, we can use of the RecyclerView in various constraints: as a horizontal view for story chapters, a vertical view for the event page, and a grid view for character icons, weapons, and other equipment. There are many other examples of RecyclerView throughout the entirety of Dragalia Lost, but here would be the three primary examples of its use horizontally, vertically, and as a grid.
   
   **Sdorica**
   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867402018914334/Screen_Recording_20220227-205153_Sdorica_1.gif" width="400" />
   <img src="https://cdn.discordapp.com/attachments/910117718924099594/948081265695924244/20220228_205607.gif" width="400" /></p>
+  
+  In these two Sdorica images (and the one in the prior category), we can see use of RecyclerView in both the main UI and within the character roster page. The first .gif is a demonstration of RecyclerView in a grid format, where the top row of characters' views are reused for every new row below (or above) them. In the second picture, I believe there are actually two RecyclerViews in use; one for the text tabs at the bottom, and one for the image above that matches the corrosponding text of the RecyclerView below it. You might say this can be accomplished as one view-- but there is a bug where you are able to desync the image of the above view so it does not match the correct view selection at the bottom. Since this bug exists, I am tempted to believe that this is two serperate RecyclerViews that may go out of sync with one another given some scenarios.
+  
+  It's difficult for me to say whether or not these apps makes better use of common layout patterns-- as I have become accustomed to navigating them effectively throughout the years. I can admit that Dragalia's UI is becoming increasingly crowded as more content is added, and can become difficult to navigate as a result. Meanwhile, Sdorica's UI has loading and optimization issues that can make navigation throughout the game sluggish. If it were simply about optimized navigation, then Dragalia definitely is the winner of these two apps.
   
   ## App Lifecycle
   
@@ -74,9 +79,7 @@
   
 
 REQUIREMENTS
-the app lifecycle and especially the experience of starting, stopping and resuming use of the app. Your analysis should also continue to consider the same, or similar questions asked in the last app review assignment.
- 
-The following questions are prompts that are intended to get you thinking about the points above. You need not answer all of them (or even any of them, if you have other equivalent ideas). Think of them as starting points to help you develop your own questions as part of your analysis:
+
 Consider specific and related UI elements in each of your chosen apps (e.g. menus in each of your apps, or data entry views, etc.): Does one app have a "better" interface than the other? Which do you think might be easier, or more challenging to implement?
 The RecyclerView is a commonly used layout pattern in Android development; do either of your chosen apps make use of RecyclerView? Are there other layout patterns present in either or both apps that you have seen elsewhere? Do you think that one app makes better use of common layout patterns?
 What is the user experience in starting each of your apps? What about stopping, or exiting? Is resuming easy and efficient? How do these experiences compare across both apps?
