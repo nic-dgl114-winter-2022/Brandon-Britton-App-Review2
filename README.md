@@ -41,7 +41,10 @@
   
   **Dragalia Lost**
   
-  <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867426324881458/Screen_Recording_20220227-203604_Dragalia_1.gif" width="400" /></p>
+  <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867426324881458/Screen_Recording_20220227-203604_Dragalia_1.gif" width="400" />
+<img src="https://cdn.discordapp.com/attachments/910117718924099594/947867445727748156/Screen_Recording_20220227-202954_Dragalia_1.gif" width="400" />
+<img src="https://cdn.discordapp.com/attachments/910117718924099594/947936372285653073/20220228_112007.gif" width="400" /></p>
+  
   
   **Sdorica**
   <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867402018914334/Screen_Recording_20220227-205153_Sdorica_1.gif" width="400" />
