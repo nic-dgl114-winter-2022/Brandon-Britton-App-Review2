@@ -37,6 +37,10 @@
 
   Overall, I found this utilization of activities quite interesting, and it's more widespread that I originally imagined in the use of games. Normally, I might have imagined that a change to an activity would have had a transistion where it appears the new activity "pops up", or has a transistion from the side of the screen, but I realized that a  new Activity may also have custom animations as you change from one to another. I also found the use of persisting UI elements overtop of Activities a clever and well designed use of a clean UI overall.
   
+  ## Use of RecyclerView
+  
+  
+  
   ## App Lifecycle
   
    **Dragalia Lost**
@@ -48,6 +52,13 @@
   When stopping the app, Dragalia aims to do primarily one of two things, depending on whether or not you're in a battle or within menus. If you are within a menu, the game will preserve your location in the menu and any changes that may have been made or are currently in progress, such as team orginization. The other, more notable thing that Dragalia does is if you stop the app while currently in a stage or battle-- upon resuming the app, you will see that the game has automatically paused the game for you, and you will see the pause menu upon resuming the app, with all battle information paused at that current point in time.
   
   One other important detail to mention while stopping the app in co-operative play, is that while the pause menu is brought up, it neither pauses the battle gameplay for the player who has stopped the app, and additionally, it results in the immedieate disconnection of that player in co-operative play.
+  
+  **Sdorica**
+  
+  Sdorica on the other hand, has very little to write home about regarding the App Lifecycle in comparison. Like Dragalia, it has a typical startup and loading screen until a "Tap to Play" prompt is brought up to lead the user to the main UI. Also like Dragalia, it has typical behaviour when stopping, resuming, and destroying the app. The app lifecycle of Sdorica is comparative to Dragalia's, although it does not have the niches of co-operative play.
+  
+  Sdorica however, does resuming very poorly. When stopping the app, I suspect it tries to store too much data when trying to resume-- especially when you swap to a different app and return to it after even a short period of time. Sdorica more often than not has a higher failure rate of onRestart -ing the app over success, and while it clearly is not the intent, putting Sdorica onStop often leads to destroying the current instance of the app. I suspect this may be because of the amount of unnessecary information it tries to save into its state, but I cannot be sure.
+  
   
   
   
