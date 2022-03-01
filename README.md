@@ -39,7 +39,13 @@
   
   ## Use of RecyclerView
   
+  **Dragalia Lost**
   
+  <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947931612832759868/Screen_Recording_20220228-094410_Dragalia_1.gif" width="400" /></p>
+  
+  **Sdorica**
+  <p float="left"><img src="https://cdn.discordapp.com/attachments/910117718924099594/947867402018914334/Screen_Recording_20220227-205153_Sdorica_1.gif" width="400" />
+  <img src="https://cdn.discordapp.com/attachments/910117718924099594/947867418552840212/Screen_Recording_20220227-204248_Sdorica_1.gif" width="400" /></p>
   
   ## App Lifecycle
   
